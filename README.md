@@ -3,7 +3,7 @@
 In the project for the "Machine Learning and Data Analytics in Accounting" course, utilized machine learning models to predict monthly revenue and EPS for companies.
 
 \
-Explanation for Codes:
+Explanation for Codes:\
 Random Forest_XGBoost/*: Utilized Random Forest and XGBoost to forecast monthly revenue amounts from January 2020 to December 2022.
 
 DNN_CNN_Transformer/*: Utilized DNN, CNN and Transformer to forecast monthly revenue amounts from January 2020 to December 2022.
